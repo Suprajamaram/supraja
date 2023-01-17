@@ -1,0 +1,14 @@
+package lambdaEx;
+import java.util.*;
+import java.util.function.Predicate;
+import java.util.stream.Stream;
+
+public class StudentFilterApp {
+	
+	public static void main(String[] args) {
+		//TODO Auto-generated method stub
+		
+		List<>
+	}
+
+}
